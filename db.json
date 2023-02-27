@@ -1,0 +1,23 @@
+{
+  "names": [
+    {"name": "Костя", "id": "1"},
+    {"name": "Витя ", "id": "2"},
+    {"name": "Женя ", "id": "3"},
+    {"name": "Дядик", "id": "4"},
+    {"name": "Чрущ", "id": "5"},
+    {"name": "ктото", "id": "6"}
+  ],
+  "todos": [
+    {"title": "going", "id": "1" , "image" :  "/images/one.jpg"},
+    {"title": "walking", "id": "2", "image" :  "/images/two.png"},
+    {"title": "eating", "id": "3", "image" :  "/images/three.png"},
+    {"title": "earning", "id": "4", "image" :  "/images/four.png"},
+    {"title": "nosing", "id": "5", "image" :  "/images/five.png"},
+    {"title": "drying", "id": "6", "image" :  "/images/six.jpg"},
+    {"title": "drinking", "id": "7", "image" :  "/images/seven.png"},
+    {"title": "sleeping", "id": "8", "image" :  "/images/eight.png"},
+    {"title": "catching", "id": "9", "image" :  "/images/nine.png"},
+    {"title": "writing", "id": "10", "image" :  "/images/ten.jpeg"},
+    {"title": "something", "id": "11", "image" :  "/images/eleven.png"}
+  ]
+}
